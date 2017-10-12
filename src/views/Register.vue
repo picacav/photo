@@ -4,8 +4,8 @@
     <div class="loginBox">
       <section class="title">
         <a class="logo" v-link="{name: 'Dashboard'}">
-          图片聚集地
-          <span>免费图片！</span>
+          铁三角
+          <span>哈哈！</span>
         </a>
       </section>
       <section>

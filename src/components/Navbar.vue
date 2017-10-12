@@ -1,7 +1,7 @@
 <template>
   <section class="menu">
     <section id="logo">
-      <a class="logo" v-link="{name: 'Dashboard', exact: true}">图片聚集地 <span>免费图片！</span></a>
+      <a class="logo" v-link="{name: 'Dashboard', exact: true}">铁三角 <span>哈哈！</span></a>
       <i class="fa fa-bars fa-2x" aria-hidden="true" v-on:click="drop"></i>
     </section>
     <div class="drop">
