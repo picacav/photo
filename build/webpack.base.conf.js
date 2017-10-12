@@ -4,7 +4,7 @@ var projectRoot = path.resolve(__dirname, '../')
 
 module.exports = {
   entry: {
-    app: './src/main.js'
+    app: './server.js'
   },
   output: {
     path: path.resolve(__dirname, '../dist/static'),
